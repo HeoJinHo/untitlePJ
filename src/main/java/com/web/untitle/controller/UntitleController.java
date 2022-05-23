@@ -15,7 +15,7 @@ public class UntitleController {
 	 */
 	@RequestMapping("/rest")
 	public @ResponseBody String test() {
-		return "sdasdasssasdsasssss";
+		return "sdasdasssasdsassssssss";
 	}
 	
 }
